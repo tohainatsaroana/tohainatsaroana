@@ -17,7 +17,7 @@ My name is [Tohaina Tsaroana](https://github.com/tohainatsaroana) and I'm a soft
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <details>
-<summary>More Skills</summary>
+<summary>More Skills, Technologies and Tools</summary>
 
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
