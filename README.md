@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there!👋
 
 My name is Tohaina Tsaroana and I'm a software developer/Network and systems engineer. I'm from Madagascar, living in Antsirabe and currently working at ALTEE. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
