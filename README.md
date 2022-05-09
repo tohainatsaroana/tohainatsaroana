@@ -30,6 +30,10 @@ My name is [Tohaina Tsaroana](https://github.com/tohainatsaroana) and I'm a soft
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 </details>
 
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/tohainatsaroana">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohainatsaroana&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <!-- links to social media icons -->
 
@@ -47,5 +51,5 @@ My name is [Tohaina Tsaroana](https://github.com/tohainatsaroana) and I'm a soft
 
 [2]: https://github.com/tohainatsaroana
 [3]: https://www.linkedin.com/in/tohainatsaroana/
-
+##
 > "*soli Deo gloria*"
