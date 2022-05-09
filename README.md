@@ -18,6 +18,8 @@ My name is [Tohaina Tsaroana](https://github.com/tohainatsaroana) and I'm a soft
 
 <details>
 <summary>More Skills, Technologies and Tools</summary>
+<br>
+
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
