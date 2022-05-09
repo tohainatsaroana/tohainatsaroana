@@ -64,3 +64,5 @@ My name is Tohaina Tsaroana and I'm a software developer/Network and systems eng
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+> "*soli Deo gloria*"
