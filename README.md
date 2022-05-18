@@ -55,4 +55,4 @@ My name is [Tohaina Tsaroana](https://github.com/tohainatsaroana) and I'm a `sof
 [2]: https://github.com/tohainatsaroana
 [3]: https://www.linkedin.com/in/tohainatsaroana/
 ###
-> "*soli Deo gloria*"
+> "*Thank you*"
