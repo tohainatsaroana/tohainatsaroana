@@ -1,5 +1,5 @@
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=500&color=7827F7&width=435&lines=Hi+there!%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=300&color=7827F7&width=435&lines=Hi+there!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 My name is [Tohaina Tsaroana](https://github.com/tohainatsaroana) and I'm a `software developer/Network and systems engineer`. I'm from Madagascar, living in Antsirabe and currently working at `ALTEE`. You can find me on [![LinkedIn][3.2]][3]
 
